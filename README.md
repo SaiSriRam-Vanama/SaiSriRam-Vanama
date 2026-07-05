@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Custom AI-themed SVG banner -->
-<img src="https://raw.githubusercontent.com/SaiSriRam-Vanama/SaiSriRam-Vanama/main/assets/banner.svg" width="100%" alt="Sai Sri Ram — AI Engineer & Full-Stack Developer"/>
+<img src="https://raw.githubusercontent.com/SaiSriRam-Vanama/SaiSriRam-Vanama/main/banner.svg" width="100%" alt="Sai Sri Ram — AI Engineer & Full-Stack Developer"/>
 <!-- ⬆️ Custom banner (SVG source provided in assets/banner.svg — see Optional Setup at bottom to host it) -->
 
 <!-- Typing SVG — rotates through roles -->
@@ -287,7 +287,6 @@ Innovation focused on improving thermal efficiency and reliability in IT infrast
 
 </div>
 
-> ⚙️ Powered by a GitHub Actions workflow (`.github/workflows/snake.yml`) that regenerates this SVG every 6 hours. See the **Optional Setup** notes at the bottom of this file for the one-time activation steps.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%25" width="100%"/>
 
