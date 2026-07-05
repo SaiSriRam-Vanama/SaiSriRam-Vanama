@@ -1,22 +1,12 @@
-<!--
-  ==============================================================
-  README.md — Premium GitHub Profile for Vanama Sai Sri Ram
-  Theme: Cyber Glassmorphism / Blue Neon
-  Only manual step remaining: add your email address (search "your.email@example.com")
-  See the <!-- Optional Setup --> comment block at the bottom of this
-  file for instructions on activating the Snake Animation and other
-  optional widgets.
-  ==============================================================
--->
 
 <div align="center">
 
 <!-- Custom AI-themed SVG banner -->
-<img src="https://raw.githubusercontent.com/SAISRIRAM-VANAMA/SAISRIRAM-VANAMA/main/assets/banner.svg" width="100%" alt="Sai Sri Ram — AI Engineer & Full-Stack Developer"/>
+<img src="https://raw.githubusercontent.com/SaiSriRam-Vanama/SaiSriRam-Vanama/main/assets/banner.svg" width="100%" alt="Sai Sri Ram — AI Engineer & Full-Stack Developer"/>
 <!-- ⬆️ Custom banner (SVG source provided in assets/banner.svg — see Optional Setup at bottom to host it) -->
 
 <!-- Typing SVG — rotates through roles -->
-<a href="https://github.com/SAISRIRAM-VANAMA">
+<a href="https://github.com/SaiSriRam-Vanama">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer;Software+Engineer;Full+Stack+Developer;Web+Developer;Python+Developer;Backend+Developer;Frontend+Developer;B.Tech+Student;AI+Enthusiast" alt="Typing SVG" />
 </a>
 
@@ -30,7 +20,7 @@
 <br/><br/>
 
 <!-- Profile views + social -->
-<img src="https://komarev.com/ghpvc/?username=SAISRIRAM-VANAMA&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SaiSriRam-Vanama&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
 <a href="https://linkedin.com/in/saisriramv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your.email@example.com"><!-- ⬅️ Replace with your email --><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -42,7 +32,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/SAISRIRAM-VANAMA/SAISRIRAM-VANAMA/main/assets/coding.gif" alt="coding gif"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/SaiSriRam-Vanama/SaiSriRam-Vanama/main/assets/coding.gif" alt="coding gif"/>
 <!-- ⬆️ Optional: replace with your own gif, or delete this line for a cleaner layout -->
 
 I enjoy solving real-world problems through AI and software engineering — building intelligent products that combine machine learning, full-stack development, and practical research. Whether it's teaching a system to predict startup failure before the metrics catch up, or helping a driver find a parking spot before they even see the lot, I like turning "what if" ideas into things people can actually use.
@@ -130,7 +120,7 @@ Real-time parking availability and intelligent slot management using computer vi
 `React` `OpenCV` `Flask` `MQTT` `MongoDB`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00c6ff?style=flat-square&logo=vercel&logoColor=white)](https://smart-park-iq.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAISRIRAM-VANAMA/Park-IQ)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaiSriRam-Vanama/Park-IQ)
 
 </td>
 </tr>
@@ -150,7 +140,7 @@ An early-warning system for startup failure risk, built on public web signals �
 `Python` `FastAPI` `TensorFlow` `Scikit-Learn` `PostgreSQL`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00c6ff?style=flat-square&logo=render&logoColor=white)](https://pulselensai.onrender.com/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAISRIRAM-VANAMA/PulselensAi)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaiSriRam-Vanama/PulselensAi)
 
 </td>
 </tr>
@@ -170,7 +160,7 @@ An intelligent career navigation platform that analyzes real-time job trends, pe
 `Next.js` `Node.js` `Firebase` `Tailwind` `Pandas`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00c6ff?style=flat-square&logo=vercel&logoColor=white)](https://ai-career-autopilot.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAISRIRAM-VANAMA/ai-career-autopilot)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaiSriRam-Vanama/ai-career-autopilot)
 
 </td>
 </tr>
@@ -184,14 +174,14 @@ An intelligent career navigation platform that analyzes real-time job trends, pe
 <tr>
 <td width="50%" valign="top">
 
-**☁️ [AI Auto Healing System](https://github.com/SAISRIRAM-VANAMA/Self-Adaptive-AI-Engine-for-Auto-Healing-Cloud-Infrastructure)**
+**☁️ [AI Auto Healing System](https://github.com/SaiSriRam-Vanama/Self-Adaptive-AI-Engine-for-Auto-Healing-Cloud-Infrastructure)**
 Self-repairing cloud infrastructure monitor that detects anomalies and autonomously executes recovery procedures to minimize downtime.
 `FastAPI` `TensorFlow` `Docker` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-**🛡️ [Cyber Hygiene Assistant](https://github.com/SAISRIRAM-VANAMA/Cyber-Hygiene-Assistant)**
+**🛡️ [Cyber Hygiene Assistant](https://github.com/SaiSriRam-Vanama/Cyber-Hygiene-Assistant)**
 Assistant tool promoting safer digital habits.
 
 </td>
@@ -248,14 +238,14 @@ Innovation focused on improving thermal efficiency and reliability in IT infrast
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SAISRIRAM-VANAMA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAISRIRAM-VANAMA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiSriRam-Vanama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSriRam-Vanama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=SAISRIRAM-VANAMA&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
+<img src="https://streak-stats.demolab.com?user=SaiSriRam-Vanama&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAISRIRAM-VANAMA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiSriRam-Vanama&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SAISRIRAM-VANAMA&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SaiSriRam-Vanama&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -268,10 +258,10 @@ Innovation focused on improving thermal efficiency and reliability in IT infrast
 -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAISRIRAM-VANAMA&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAISRIRAM-VANAMA&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAISRIRAM-VANAMA&theme=github_dark&utcOffset=5.5" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAISRIRAM-VANAMA&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiSriRam-Vanama&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiSriRam-Vanama&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaiSriRam-Vanama&theme=github_dark&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaiSriRam-Vanama&theme=github_dark" width="49%"/>
 
 </div>
 
@@ -290,9 +280,9 @@ Innovation focused on improving thermal efficiency and reliability in IT infrast
   break the rest of the README.
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAISRIRAM-VANAMA/SAISRIRAM-VANAMA/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAISRIRAM-VANAMA/SAISRIRAM-VANAMA/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SAISRIRAM-VANAMA/SAISRIRAM-VANAMA/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiSriRam-Vanama/SaiSriRam-Vanama/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiSriRam-Vanama/SaiSriRam-Vanama/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SaiSriRam-Vanama/SaiSriRam-Vanama/output/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -336,13 +326,12 @@ Innovation focused on improving thermal efficiency and reliability in IT infrast
 <div align="center">
 
 <a href="https://linkedin.com/in/saisriramv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><!-- ⬅️ Replace with your email --><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><!-- ⬅️ Replace with your portfolio URL --><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0f2027?style=for-the-badge&logo=vercel&logoColor=00C6FF"/></a>
+<a href="mailto:saisriram2796@gmail.com"><!-- ⬅️ Replace with your email --><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=150&section=footer&text=Code.%20Learn.%20Build.%20Repeat.&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<sub>Thanks for stopping by! ⭐ Star my repos if you find them useful — and let's build something great together.</sub>
+<sub>💼 Open to internships, full-time opportunities, and exciting collaborations in AI and Software Engineering.</sub>
 </div>
