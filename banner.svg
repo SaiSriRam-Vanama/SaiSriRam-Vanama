@@ -1,0 +1,86 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060b16"/>
+      <stop offset="55%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#00c6ff"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00c6ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00c6ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- Neural network mesh (right side) -->
+  <g opacity="0.55" stroke="#00c6ff" stroke-width="1">
+    <line x1="780" y1="60" x2="880" y2="40"/>
+    <line x1="780" y1="60" x2="860" y2="110"/>
+    <line x1="860" y1="110" x2="940" y2="70"/>
+    <line x1="860" y1="110" x2="950" y2="150"/>
+    <line x1="880" y1="40" x2="960" y2="90"/>
+    <line x1="960" y1="90" x2="1040" y2="60"/>
+    <line x1="960" y1="90" x2="1030" y2="130"/>
+    <line x1="950" y1="150" x2="1030" y2="130"/>
+    <line x1="950" y1="150" x2="1010" y2="190"/>
+    <line x1="1030" y1="130" x2="1100" y2="100"/>
+    <line x1="1030" y1="130" x2="1090" y2="170"/>
+    <line x1="1010" y1="190" x2="1090" y2="170"/>
+    <line x1="1090" y1="170" x2="1150" y2="140"/>
+    <line x1="1040" y1="60" x2="1100" y2="100"/>
+  </g>
+  <g fill="#00e5ff">
+    <circle cx="780" cy="60" r="4"/>
+    <circle cx="860" cy="110" r="5"/>
+    <circle cx="880" cy="40" r="4"/>
+    <circle cx="940" cy="70" r="3"/>
+    <circle cx="950" cy="150" r="5"/>
+    <circle cx="960" cy="90" r="6"/>
+    <circle cx="1040" cy="60" r="4"/>
+    <circle cx="1030" cy="130" r="6"/>
+    <circle cx="1010" cy="190" r="4"/>
+    <circle cx="1090" cy="170" r="5"/>
+    <circle cx="1100" cy="100" r="4"/>
+    <circle cx="1150" cy="140" r="4"/>
+  </g>
+  <circle cx="960" cy="90" r="18" fill="url(#nodeGlow)"/>
+  <circle cx="1030" cy="130" r="16" fill="url(#nodeGlow)"/>
+
+  <!-- Glowing divider line -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#glow)"/>
+  <rect x="0" y="258" width="1200" height="2" fill="url(#glow)"/>
+
+  <!-- Circuit accent (left side) -->
+  <g stroke="#00c6ff" stroke-width="1.5" fill="none" opacity="0.35">
+    <path d="M 20 220 L 60 220 L 60 190 L 100 190"/>
+    <path d="M 20 240 L 40 240 L 40 200 L 90 200"/>
+    <circle cx="100" cy="190" r="3" fill="#00c6ff"/>
+    <circle cx="60" cy="220" r="3" fill="#00c6ff"/>
+  </g>
+
+  <!-- Main text -->
+  <text x="60" y="110" font-family="'Segoe UI', 'Fira Code', monospace" font-size="46" font-weight="700" fill="#ffffff">
+    Vanama Sai Sri Ram
+  </text>
+  <text x="60" y="150" font-family="'Segoe UI', 'Fira Code', monospace" font-size="20" font-weight="500" fill="#00e5ff">
+    AI Engineer &#183; Full-Stack Developer &#183; B.Tech Student
+  </text>
+  <text x="60" y="185" font-family="'Segoe UI', monospace" font-size="15" fill="#8fb3c7">
+    Building intelligent, scalable software — one commit at a time
+  </text>
+
+  <!-- Small accent tag -->
+  <rect x="60" y="205" width="150" height="28" rx="14" fill="none" stroke="#00c6ff" stroke-width="1.2" opacity="0.8"/>
+  <text x="135" y="223" font-family="monospace" font-size="13" fill="#00e5ff" text-anchor="middle">machine learning</text>
+
+</svg>
