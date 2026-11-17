@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" role="img" aria-label="Live demo">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#3B82F6"/></linearGradient></defs>
+<rect x="0.75" y="0.75" width="148.5" height="42.5" rx="10" fill="url(#a)" stroke-width="1.5"/>
+<g transform="translate(16 12) scale(0.8333)" fill="none" stroke="#04121A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></g>
+<text x="46" y="27.5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#04121A" textLength="76" lengthAdjust="spacingAndGlyphs">Live demo</text>
+</svg>

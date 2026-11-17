@@ -1,147 +1,206 @@
 <div align="center">
 
 <a href="https://saisriramvanama.vercel.app/">
-  <img src="assets/hero.svg" alt="Vanama Sai Sri Ram, Computer Engineering (AI) student. Software Engineering, AI and Machine Learning." width="100%" />
+  <img src="assets/hero.svg" alt="Vanama Sai Sri Ram, Computer Engineering (AI) student. Software Engineering, AI and Machine Learning. Hyderabad, India." width="100%" />
 </a>
 
-<br />
+**I turn ideas into working software, from microservices to ML pipelines.**
 
-Final-year Computer Engineering (AI) student who enjoys building practical software and AI-powered solutions.<br />
-Open to entry-level Software Engineering and AI/ML opportunities across India.
+<a href="https://saisriramvanama.vercel.app/"><img src="assets/buttons/portfolio.svg" width="150" height="44" alt="Visit my portfolio" /></a> &nbsp;<a href="https://www.linkedin.com/in/saisriramv/"><img src="assets/buttons/linkedin.svg" width="150" height="44" alt="Connect on LinkedIn" /></a> &nbsp;<a href="https://github.com/SaiSriRam-Vanama"><img src="assets/buttons/github.svg" width="150" height="44" alt="Open my GitHub profile" /></a> &nbsp;<a href="mailto:saisriram2796@gmail.com"><img src="assets/buttons/email.svg" width="150" height="44" alt="Email Vanama Sai Sri Ram" /></a>
 
-<br />
-
-[**Portfolio**](https://saisriramvanama.vercel.app/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/saisriramv/) &nbsp;·&nbsp; [**GitHub Projects**](https://github.com/SaiSriRam-Vanama?tab=repositories) &nbsp;·&nbsp; [**Contact**](mailto:saisriram2796@gmail.com)
+<a href="#about" aria-label="About" title="About"><img src="assets/icons/user.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#projects" aria-label="Projects" title="Projects"><img src="assets/icons/folder-code.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#skills" aria-label="Skills" title="Skills"><img src="assets/icons/terminal.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#experience" aria-label="Experience" title="Experience"><img src="assets/icons/briefcase.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#certifications" aria-label="Certifications" title="Certifications"><img src="assets/icons/award.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#learning" aria-label="Learning &amp; Events" title="Learning &amp; Events"><img src="assets/icons/book-open.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#patent" aria-label="Patent" title="Patent"><img src="assets/icons/lightbulb.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#education" aria-label="Education" title="Education"><img src="assets/icons/graduation-cap.svg" width="20" height="20" align="absmiddle" alt="" /></a> &ensp;&nbsp;<a href="#contact" aria-label="Contact" title="Contact"><img src="assets/icons/mail.svg" width="20" height="20" align="absmiddle" alt="" /></a>
 
 </div>
 
-<img src="assets/divider.svg" alt="Section divider" width="100%" />
+## <a id="about"></a><img src="assets/icons/user.svg" width="24" height="24" align="absmiddle" alt="" /> About
 
-## 01 · About
+<div align="center">
 
-I'm Vanama Sai Sri Ram, a final-year B.Tech student in Computer Engineering (Artificial Intelligence) at Marwadi University. I like taking an idea all the way to a working application, and I'm most interested in software engineering and AI/ML.
+<img src="assets/cards/about-profile.svg" width="420" alt="Profile. Final-year B.Tech student, Computer Engineering (AI), at Marwadi University, graduating in 2027. Internships in full-stack development and data analytics. Looking for an entry-level Software Engineering or AI/ML role where I can keep building and learn from a strong team." />
+<img src="assets/cards/about-focus.svg" width="420" alt="What I Build and My Focus. Software engineering, microservices, AI/ML pipelines and practical software products. I like taking an idea past the prototype stage into an application that actually runs. Most interested in software engineering, machine learning and full-stack development." />
 
-My projects so far include a microservices-based parking platform, a startup-risk analysis system built with scikit-learn, and a career-planning assistant. I've also completed internships in full-stack development and data analytics. I'm looking for an entry-level role where I can keep building, learn from experienced engineers, and solve practical problems.
+</div>
 
-<img src="assets/divider.svg" alt="Section divider" width="100%" />
+## <a id="projects"></a><img src="assets/icons/folder-code.svg" width="24" height="24" align="absmiddle" alt="" /> Projects
 
-## 02 · Education
+<table width="100%">
+<tr><td>
 
-**B.Tech, Computer Engineering (Artificial Intelligence)**  
-Marwadi University · Graduation: 2027 · CGPA: **7.96 / 10**
+<h3><img src="assets/icons/folder.svg" width="22" height="22" align="absmiddle" alt="" /> 01 · Park IQ</h3>
+<sub><b>FULL-STACK · MICROSERVICES</b></sub>
 
-**Diploma, Computer Science Engineering**  
-Sree Dattha Group of Institutions · 2021 – 2024 · CGPA: 8.72 / 10
+<p>A microservices-based parking management platform. Authentication, parking slot management, booking, pricing and payments are split across an API gateway and dedicated services.</p>
 
-<img src="assets/divider.svg" alt="Section divider" width="100%" />
+<p><b>Built with</b><br />
+<kbd><img src="assets/icons/t-nodedotjs.svg" width="12" height="12" align="absmiddle" alt="" /> Node.js</kbd> <kbd><img src="assets/icons/t-express.svg" width="12" height="12" align="absmiddle" alt="" /> Express</kbd> <kbd><img src="assets/icons/t-mongodb.svg" width="12" height="12" align="absmiddle" alt="" /> MongoDB</kbd> <kbd><img src="assets/icons/t-react.svg" width="12" height="12" align="absmiddle" alt="" /> React</kbd> <kbd><img src="assets/icons/t-vite.svg" width="12" height="12" align="absmiddle" alt="" /> Vite</kbd> <kbd><img src="assets/icons/t-socketdotio.svg" width="12" height="12" align="absmiddle" alt="" /> Socket.IO</kbd> <kbd><img src="assets/icons/t-stripe.svg" width="12" height="12" align="absmiddle" alt="" /> Stripe</kbd> <kbd><img src="assets/icons/t-docker.svg" width="12" height="12" align="absmiddle" alt="" /> Docker</kbd></p>
 
-## 03 · Technical Skills
+<p><a href="https://smart-park-iq.vercel.app/"><img src="assets/buttons/live-demo.svg" width="150" height="44" alt="Live demo of Park IQ" /></a> &nbsp; <a href="https://github.com/SaiSriRam-Vanama/Park-IQ"><img src="assets/buttons/source-code.svg" width="160" height="44" alt="Source code of Park IQ on GitHub" /></a></p>
 
-Grouped by area, not by proficiency. Everything listed is something I've used in projects, internships or coursework.
+</td></tr>
+</table>
 
-**Programming Languages**  
-`Python` `JavaScript` `TypeScript` `SQL`
+<table width="100%">
+<tr><td>
 
-**AI / Machine Learning**  
-`scikit-learn` `pandas` `LSTM` `Model Evaluation` `Explainable AI (SHAP)`
+<h3><img src="assets/icons/folder.svg" width="22" height="22" align="absmiddle" alt="" /> 02 · PulseLensAI</h3>
+<sub><b>MACHINE LEARNING · DATA SIGNALS</b></sub>
 
-**Frontend**  
-`HTML` `CSS` `React` `Next.js`
+<p>A startup risk and early failure detection platform. It combines website, hiring and social media signals in a hybrid scoring engine to estimate startup health and flag operational risk.</p>
 
-**Backend**  
-`Flask` `FastAPI` `Node.js` `Express` `REST APIs`
+<p><b>Built with</b><br />
+<kbd><img src="assets/icons/t-python.svg" width="12" height="12" align="absmiddle" alt="" /> Python</kbd> <kbd><img src="assets/icons/t-flask.svg" width="12" height="12" align="absmiddle" alt="" /> Flask</kbd> <kbd>Scikit-learn</kbd> <kbd><img src="assets/icons/t-pandas.svg" width="12" height="12" align="absmiddle" alt="" /> Pandas</kbd> <kbd>BeautifulSoup</kbd></p>
 
-**Databases**  
-`MySQL` `MongoDB` `Firebase`
+<p><a href="https://pulselensai.onrender.com/"><img src="assets/buttons/live-demo.svg" width="150" height="44" alt="Live demo of PulseLensAI" /></a> &nbsp; <a href="https://github.com/SaiSriRam-Vanama/PulselensAi"><img src="assets/buttons/source-code.svg" width="160" height="44" alt="Source code of PulseLensAI on GitHub" /></a></p>
 
-**Tools and Platforms**  
-`Git` `GitHub` `Docker` `AWS` `VS Code`
+</td></tr>
+</table>
 
-<img src="assets/divider.svg" alt="Section divider" width="100%" />
+<table width="100%">
+<tr><td>
 
-## 04 · Selected Projects
+<h3><img src="assets/icons/folder.svg" width="22" height="22" align="absmiddle" alt="" /> 03 · AI Career Autopilot</h3>
+<sub><b>AI · FULL-STACK</b></sub>
 
-### ParkIQ
-*A microservices-based parking management platform.*
+<p>A resume-driven career planning assistant. It extracts skills from a resume, compares them with job-market data and generates a 12-week learning roadmap, with job tracking and an AI advisor.</p>
 
-Handles user authentication, parking slot management, booking, pricing and payments through an API gateway and dedicated services, with a React frontend.
+<p><b>Built with</b><br />
+<kbd><img src="assets/icons/t-nextdotjs.svg" width="12" height="12" align="absmiddle" alt="" /> Next.js</kbd> <kbd><img src="assets/icons/t-fastapi.svg" width="12" height="12" align="absmiddle" alt="" /> FastAPI</kbd> <kbd><img src="assets/icons/t-mongodb.svg" width="12" height="12" align="absmiddle" alt="" /> MongoDB</kbd> <kbd><img src="assets/icons/t-huggingface.svg" width="12" height="12" align="absmiddle" alt="" /> Hugging Face</kbd> <kbd>Groq</kbd></p>
 
-`Node.js` `Express` `MongoDB` `React` `Vite` `Socket.IO` `Stripe` `Docker`
+<p><a href="https://ai-career-autopilot.vercel.app/"><img src="assets/buttons/live-demo.svg" width="150" height="44" alt="Live demo of AI Career Autopilot" /></a> &nbsp; <a href="https://github.com/SaiSriRam-Vanama/ai-career-autopilot"><img src="assets/buttons/source-code.svg" width="160" height="44" alt="Source code of AI Career Autopilot on GitHub" /></a></p>
 
-[Live Demo](https://smart-park-iq.vercel.app) · [GitHub Repository](https://github.com/SaiSriRam-Vanama/Park-IQ)
+</td></tr>
+</table>
 
-### PulselensAI
-*Early failure detection for online startups.*
+## <a id="skills"></a><img src="assets/icons/terminal.svg" width="24" height="24" align="absmiddle" alt="" /> Skills
 
-Combines website, hiring and social-media signals in a hybrid scoring engine that produces a health score, a risk level and a breakdown of the signals behind it.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-`Python` `Flask` `scikit-learn` `pandas` `BeautifulSoup`
+<img src="assets/icons/code.svg" width="18" height="18" align="absmiddle" alt="" /> <b>Languages</b><br />
+<kbd><img src="assets/icons/t-python.svg" width="12" height="12" align="absmiddle" alt="" /> Python</kbd> <kbd><img src="assets/icons/t-javascript.svg" width="12" height="12" align="absmiddle" alt="" /> JavaScript</kbd> <kbd><img src="assets/icons/t-typescript.svg" width="12" height="12" align="absmiddle" alt="" /> TypeScript</kbd> <kbd>SQL</kbd>
 
-[Live Demo](https://pulselensai.onrender.com/) · [GitHub Repository](https://github.com/SaiSriRam-Vanama/PulselensAi)
+</td>
+<td width="50%" valign="top">
 
-### AI Career Autopilot
-*A resume-driven career planning assistant.*
+<img src="assets/icons/cpu.svg" width="18" height="18" align="absmiddle" alt="" /> <b>AI / ML</b><br />
+<kbd>Scikit-learn</kbd> <kbd><img src="assets/icons/t-pandas.svg" width="12" height="12" align="absmiddle" alt="" /> Pandas</kbd> <kbd>LSTM</kbd> <kbd>Model Evaluation</kbd> <kbd>Explainable AI (SHAP)</kbd>
 
-Extracts skills from an uploaded resume, compares them with job-market data, and generates a 12-week learning roadmap. Also includes a job application tracker and an AI advisor chat.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Next.js` `FastAPI` `MongoDB` `Hugging Face` `Groq`
+<img src="assets/icons/layout.svg" width="18" height="18" align="absmiddle" alt="" /> <b>Frontend</b><br />
+<kbd><img src="assets/icons/t-html5.svg" width="12" height="12" align="absmiddle" alt="" /> HTML</kbd> <kbd><img src="assets/icons/t-css.svg" width="12" height="12" align="absmiddle" alt="" /> CSS</kbd> <kbd><img src="assets/icons/t-react.svg" width="12" height="12" align="absmiddle" alt="" /> React</kbd> <kbd><img src="assets/icons/t-nextdotjs.svg" width="12" height="12" align="absmiddle" alt="" /> Next.js</kbd>
 
-[Live Demo](https://ai-career-autopilot.vercel.app) · [GitHub Repository](https://github.com/SaiSriRam-Vanama/ai-career-autopilot)
+</td>
+<td width="50%" valign="top">
 
-<img src="assets/divider.svg" alt="Section divider" width="100%" />
+<img src="assets/icons/server.svg" width="18" height="18" align="absmiddle" alt="" /> <b>Backend</b><br />
+<kbd><img src="assets/icons/t-flask.svg" width="12" height="12" align="absmiddle" alt="" /> Flask</kbd> <kbd><img src="assets/icons/t-fastapi.svg" width="12" height="12" align="absmiddle" alt="" /> FastAPI</kbd> <kbd><img src="assets/icons/t-nodedotjs.svg" width="12" height="12" align="absmiddle" alt="" /> Node.js</kbd> <kbd><img src="assets/icons/t-express.svg" width="12" height="12" align="absmiddle" alt="" /> Express</kbd> <kbd>REST APIs</kbd>
 
-## 05 · Experience and Achievements
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Professional Internships
-- **Code Alpha** · Full Stack Engineer Intern
-- **CHEARS** · Data Analytics Intern
+<img src="assets/icons/database.svg" width="18" height="18" align="absmiddle" alt="" /> <b>Databases</b><br />
+<kbd>MySQL</kbd> <kbd><img src="assets/icons/t-mongodb.svg" width="12" height="12" align="absmiddle" alt="" /> MongoDB</kbd> <kbd><img src="assets/icons/t-firebase.svg" width="12" height="12" align="absmiddle" alt="" /> Firebase</kbd>
 
-### Virtual Job Simulations
-Completed online. These are not employment.
+</td>
+<td width="50%" valign="top">
 
-- **Deloitte** · Data Analytics Job Simulation · Oct 2025
-- **Tata Group** · GenAI-Powered Data Analytics · Oct 2025
-- **Deloitte** · Technology Job Simulation · Oct 2025
-- **Deloitte** · Cyber Job Simulation · Jun 2025
+<img src="assets/icons/wrench.svg" width="18" height="18" align="absmiddle" alt="" /> <b>Tools &amp; Cloud</b><br />
+<kbd><img src="assets/icons/t-git.svg" width="12" height="12" align="absmiddle" alt="" /> Git</kbd> <kbd><img src="assets/icons/t-github.svg" width="12" height="12" align="absmiddle" alt="" /> GitHub</kbd> <kbd><img src="assets/icons/t-docker.svg" width="12" height="12" align="absmiddle" alt="" /> Docker</kbd> <kbd>AWS</kbd> <kbd>VS Code</kbd>
 
-### Certifications
-- **AWS** · Foundations of Prompt Engineering
-- **AWS** · Introduction to Machine Learning
-- **Oracle** · Database with SQL
-- **Cisco** · Python Essentials
-- **Cisco** · Operating Systems
+</td>
+</tr>
+</table>
 
-### Learning Programs
-- **Google for Developers** · Build with AI Bootcamp · Sep 2026
-- **Nestlé** · E-learning 2026: Resilience
+## <a id="experience"></a><img src="assets/icons/briefcase.svg" width="24" height="24" align="absmiddle" alt="" /> Experience
 
-### Hackathons and Events
-- HackTheMountain
-- Intellify 3.0
-- Frontend Battle, IIT Bhubaneswar
+### <img src="assets/icons/briefcase.svg" width="20" height="20" align="absmiddle" alt="" /> Professional Internships
 
-### Patent
-**Thermal Management System for IT Infrastructure**  
-Application No. 202521090573 · Filed 22 September 2025 · Published 3 October 2025
+<div align="center">
 
-<img src="assets/divider.svg" alt="Section divider" width="100%" />
+<img src="assets/cards/exp-code-alpha.svg" width="420" alt="Code Alpha. Professional internship. Full Stack Engineer Intern. Duration 1 Month. Work mode Remote." />
+<img src="assets/cards/exp-chears.svg" width="420" alt="CHEARS. Professional internship. Data Analytics Intern. Duration 1 Month. Work mode Remote." />
 
-## 06 · GitHub Activity
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiSriRam-Vanama&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0F14&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=A5B4C4" alt="GitHub statistics for SaiSriRam-Vanama" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSriRam-Vanama&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0F14&amp;title_color=22D3EE&amp;text_color=A5B4C4" alt="Most used languages across public repositories" height="165" />
-</p>
+### <img src="assets/icons/monitor.svg" width="20" height="20" align="absmiddle" alt="" /> Virtual Internships &amp; Job Simulations
 
-<sub>These cards show GitHub activity only. They are not a measure of skill or experience.</sub>
+*Online job simulations completed virtually. These are not employment and not company internships.*
 
-<img src="assets/divider.svg" alt="Section divider" width="100%" />
+<div align="center">
 
-## 07 · Contact
+<img src="assets/cards/sim-deloitte-data.svg" width="420" alt="Deloitte. Data Analytics Job Simulation. October 2025. Virtual job simulation, not employment." />
+<img src="assets/cards/sim-tata-genai.svg" width="420" alt="Tata Group. GenAI-Powered Data Analytics. October 2025. Virtual job simulation, not employment." />
+<img src="assets/cards/sim-deloitte-tech.svg" width="420" alt="Deloitte. Technology Job Simulation. October 2025. Virtual job simulation, not employment." />
+<img src="assets/cards/sim-deloitte-cyber.svg" width="420" alt="Deloitte. Cyber Job Simulation. June 2025. Virtual job simulation, not employment." />
 
-I'm open to entry-level Software Engineering and AI/ML opportunities across India.
+</div>
 
-**Portfolio** · [saisriramvanama.vercel.app](https://saisriramvanama.vercel.app/)  
-**LinkedIn** · [linkedin.com/in/saisriramv](https://www.linkedin.com/in/saisriramv/)  
-**GitHub** · [github.com/SaiSriRam-Vanama](https://github.com/SaiSriRam-Vanama)  
-**Email** · [saisriram2796@gmail.com](mailto:saisriram2796@gmail.com)
+## <a id="certifications"></a><img src="assets/icons/award.svg" width="24" height="24" align="absmiddle" alt="" /> Certifications
+
+<div align="center">
+
+<img src="assets/cards/cert-aws-prompt.svg" width="280" alt="AWS certification: Foundations of Prompt Engineering." />
+<img src="assets/cards/cert-aws-ml.svg" width="280" alt="AWS certification: Introduction to Machine Learning." />
+<img src="assets/cards/cert-oracle-sql.svg" width="280" alt="Oracle certification: Database with SQL." /><br />
+<img src="assets/cards/cert-cisco-python.svg" width="280" alt="Cisco certification: Python Essentials." />
+<img src="assets/cards/cert-cisco-os.svg" width="280" alt="Cisco certification: Operating Systems." />
+
+</div>
+
+## <a id="learning"></a><img src="assets/icons/book-open.svg" width="24" height="24" align="absmiddle" alt="" /> Learning Programs &amp; Events
+
+### <img src="assets/icons/book-open.svg" width="20" height="20" align="absmiddle" alt="" /> Learning Programs
+
+<div align="center">
+
+<img src="assets/cards/learn-google.svg" width="420" alt="Learning program: Google for Developers, Build with AI Bootcamp, September 2026." />
+<img src="assets/cards/learn-nestle.svg" width="420" alt="Learning program: Nestlé, E-learning 2026: Resilience." />
+
+</div>
+
+### <img src="assets/icons/rocket.svg" width="20" height="20" align="absmiddle" alt="" /> Hackathons &amp; Events
+
+<div align="center">
+
+<img src="assets/cards/event-hackthemountain.svg" width="280" alt="Hackathons and events: HackTheMountain." />
+<img src="assets/cards/event-intellify.svg" width="280" alt="Hackathons and events: Intellify 3.0." />
+<img src="assets/cards/event-frontendbattle.svg" width="280" alt="Hackathons and events: Frontend Battle, IIT Bhubaneswar." />
+
+</div>
+
+## <a id="patent"></a><img src="assets/icons/lightbulb.svg" width="24" height="24" align="absmiddle" alt="" /> Patent
+
+<div align="center">
+
+<img src="assets/cards/patent.svg" width="520" alt="Patent application: Thermal Management System for IT Infrastructure. Application number 202521090573. Filed 22 September 2025. Published 3 October 2025. Published patent application; not granted." />
+
+</div>
+
+## <a id="education"></a><img src="assets/icons/graduation-cap.svg" width="24" height="24" align="absmiddle" alt="" /> Education
+
+<div align="center">
+
+<img src="assets/cards/edu-btech.svg" width="420" alt="B.Tech, Computer Engineering (Artificial Intelligence), Marwadi University. Graduation 2027. CGPA 7.96 / 10." />
+<img src="assets/cards/edu-diploma.svg" width="420" alt="Diploma, Computer Science Engineering, Sree Dattha Group of Institutions. 2021 to 2024. CGPA 8.72 / 10." />
+
+</div>
+
+## <a id="contact"></a><img src="assets/icons/mail.svg" width="24" height="24" align="absmiddle" alt="" /> Contact
+
+Open to entry-level Software Engineering and AI/ML opportunities across India.
+
+<div align="center">
+
+<a href="https://saisriramvanama.vercel.app/" aria-label="Portfolio" title="Portfolio"><img src="assets/buttons/icon-portfolio.svg" width="60" height="60" alt="Portfolio" title="Portfolio" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saisriramv/" aria-label="LinkedIn" title="LinkedIn"><img src="assets/buttons/icon-linkedin.svg" width="60" height="60" alt="LinkedIn" title="LinkedIn" /></a> &nbsp;&nbsp;
+<a href="https://github.com/SaiSriRam-Vanama" aria-label="GitHub" title="GitHub"><img src="assets/buttons/icon-github.svg" width="60" height="60" alt="GitHub" title="GitHub" /></a> &nbsp;&nbsp;
+<a href="mailto:saisriram2796@gmail.com" aria-label="Email" title="Email"><img src="assets/buttons/icon-email.svg" width="60" height="60" alt="Email" title="Email" /></a>
+
+</div>
